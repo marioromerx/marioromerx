@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! 👋 Soy [Mario Romera]
+# ¡Hola! 👋 Soy Mario Romera
 
-Soy estudiante de Administración de Sistemas Informáticos y Redes interesado en la [administración de sistemas].  
+Soy estudiante de Administración de Sistemas Informáticos y Redes interesado en la administración de sistemas.  
 Me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas.
 
 ## 🛠️ Tecnologías y herramientas
