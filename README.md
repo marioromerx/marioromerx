@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **marioromerx/marioromerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy [Mario Romera]
 
 Soy estudiante de Administración de Sistemas Informáticos y Redes interesado en la [administración de sistemas].  
 Me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas.
@@ -28,8 +27,8 @@ Me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas.
 
 ## 📊 Mis estadísticas en GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marioromerx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioromerx&layout=compact&theme=radical)
 
 ## Contacto y redes
 
